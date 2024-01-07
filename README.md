@@ -1,2 +1,2 @@
 # python_coding
-Oson va tez pythpn dasturlash tilini o`rganing
+Oson va tez python dasturlash tilini o`rganing
